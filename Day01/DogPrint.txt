@@ -1,0 +1,9 @@
+// https://www.acmicpc.net/problem/10172
+// 예제와 같은 개 출력하기 
+// 오랜만에 코딩테스트해서 간단한 문제 풀어봤습니다.
+
+class Main {
+	public static void main(String[] args) {
+		System.out.println("|\\_/|\n|q p|   /}\n( 0 )\"\"\"\\\n|\"^\"`    |\n||_/=\\\\__|");
+	}
+}
